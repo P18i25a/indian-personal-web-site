@@ -1,0 +1,16 @@
+body {
+  background-color: #C9D8B6;
+}
+h1 {
+  color: #DF711B;
+}
+h2 {
+  color: #D83A56;
+}
+h3 {
+  color: #4C4C6D;
+}
+img {
+background-image: url("img_tree.gif"), url("paper.gif");
+  background-color: #cccccc;
+}
